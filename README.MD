@@ -15,15 +15,23 @@ Esse repositório agrega um conjunto de outros repositórios que contém anális
     <td class="tg-0pky">CEF (Caixa Econômica)</td>
     <td class="tg-0pky"> Cesgranrio</td>
     <td class="tg-0pky"> 2024</td>
-    <td class="tg-0lax"> <a href="https://github.com/eduardovitor">Eduardo Vitor </a></td>
-    <td class="tg-0pky"> <a href="https://github.com/eduardovitor/AnaliseNotaCorteCaixaAC-TI"> Clique aqui</a></td>
+    <td class="tg-0lax"> 
+    <a href="https://github.com/eduardovitor">Eduardo Vitor </a>
+    </td>
+    <td class="tg-0pky"> 
+    <a href="https://github.com/eduardovitor/AnaliseNotaCorteCaixaAC-TI"> Clique aqui</a>
+    </td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"> Serpro</td>
+    <td class="tg-0pky"> Cebraspe</td>
+    <td class="tg-0pky"> 2023</td>
+    <td class="tg-0lax"> 
+    <a href="https://github.com/eduardovitor">Eduardo Vitor </a> 
+    </td>
+    <td class="tg-0pky">
+      <a href="https://github.com/eduardovitor/AnaliseNotaCorteSerproAnalistaTI"> Clique aqui</a>
+     </td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
